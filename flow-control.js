@@ -23,8 +23,8 @@ function ageChecker(age) {
 }
 
 function ternaryTeenager(age) {
-if(13 <= age && age <= 19)
-{? :}
+13 <= age && age <= 19 ? "You are a teenager" : "you are not a teenager"
+
 }
 
 function switchAge(age) {
